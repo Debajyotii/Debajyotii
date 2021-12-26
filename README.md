@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Debajyoti
 - 👀 I’m interested in Technology..
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on cloud, new product.
-- 📫 Reach me via dv.aarghya@gmail.com
+- 🌱 I’m learning, everyday ..
+- 💞️ I’m looking to collaborate on cloud, new product, distributed system.
+- 📫 Reach me via https://in.linkedin.com/in/debajyoti-dev
 
 <!---
 Debajyoti/Debajyoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
